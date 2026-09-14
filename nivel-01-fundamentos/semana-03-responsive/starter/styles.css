@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.layout {
+  width: min(90%, 1100px);
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.profile {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.profile img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* TODO: agrega una media query que adapte el layout a pantallas pequeñas */
+
+/* TODO: prueba al menos una unidad relativa adicional */

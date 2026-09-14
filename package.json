@@ -1,0 +1,15 @@
+{
+  "name": "academy-desde-cero",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test:week01": "node tests/week-01.test.js",
+    "test:week02": "node tests/week-02.test.js",
+    "test:week03": "node tests/week-03.test.js",
+    "test:week04": "node tests/week-04.test.js",
+    "test:week05": "node tests/week-05.test.js",
+    "test:week06": "node tests/week-06.test.js",
+    "test:week07": "node tests/week-07.test.js",
+    "test:week08": "node tests/week-08.test.js"
+  }
+}
